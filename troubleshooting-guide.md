@@ -1,4 +1,4 @@
-# Technical Onboarding Troubleshooting Guide
+# Technical Onboarding Troubleshooting
 
 Below are common issues faced by Student Ambassadors while completing the Technical Onboarding and possible solutions to some of them. This document has been authored by Darsh Manoj, Microsoft Learn Gold Student Ambassador.
  
